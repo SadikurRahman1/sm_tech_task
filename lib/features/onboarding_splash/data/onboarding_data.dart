@@ -1,5 +1,4 @@
 import 'package:sm_tech_task/app/assets_path.dart';
-
 import 'onboarding_data_model.dart';
 
 
